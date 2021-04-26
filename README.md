@@ -1,4 +1,4 @@
-#by Umut.py
+# by Umut.py
 
 # 🔥 umutgulmez.github.io
 
